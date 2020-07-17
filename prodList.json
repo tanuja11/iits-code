@@ -1,0 +1,63 @@
+[
+    {
+        "name": "maggi",
+        "shop":"A-mart",
+        "image": "https://rukminim1.flixcart.com/image/352/352/k44hksw0/noodle/t/j/g/70-masala-instant-noodles-maggi-original-imafnf4egpdjr4mq.jpeg?q=70"
+
+
+        
+
+
+    },
+
+    {
+        "name": "Milk",
+        "shop":"walmart",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/81jBZSGusFL._SX569_.jpg"
+
+
+    },
+
+    {
+        "name": "Coffee",        
+        "shop":"walmart",
+        "image": "https://5.imimg.com/data5/OO/OJ/MO/SELLER-27480494/nescafe-classic-blend-coffee-premix-500x500.png"
+
+    },
+
+    {
+        "name": "Tea",
+
+        "shop":"Local",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/61DylWoPSTL._SX569_.jpg"
+
+    },
+
+    {
+        "name": "Biscuits",
+        "shop":"Local",
+        "image":"https://images-na.ssl-images-amazon.com/images/I/61Xj1A6WCTL._SL1500_.jpg"
+
+    },
+
+    
+    {
+        "name": "rice",
+        "shop":"walmart",
+        "image": "https://rukminim1.flixcart.com/image/416/416/jqe38280/rice/z/p/z/5-white-biryani-basmati-rice-bag-daawat-original-imafcezhuckhtgr4.jpeg?q=70"
+
+    },
+
+    
+    {
+        "name": "basmati Rice",
+        "image": "https://rukminim1.flixcart.com/image/416/416/k0wqwsw0/rice/a/r/v/1-white-classic-basmati-rice-pouch-india-gate-original-imafkhqsrwgmmrkz.jpeg?q=70",
+        "shop":"Local"
+
+    }
+
+
+
+
+
+]
